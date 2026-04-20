@@ -1,3 +1,9 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/nomad-camels-plugin"]
+	path = packages/nomad-camels-plugin
+	url = https://github.com/FAIRmat-NFDI/nomad-camels-plugin.git
+[submodule "packages/nomad-perovskite-solar-cells-database"]
+	path = packages/nomad-perovskite-solar-cells-database
+	url = https://github.com/FAIRmat-NFDI/nomad-perovskite-solar-cells-database.git
