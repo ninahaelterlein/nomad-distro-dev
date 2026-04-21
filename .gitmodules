@@ -7,3 +7,6 @@
 [submodule "packages/nomad-perovskite-solar-cells-database"]
 	path = packages/nomad-perovskite-solar-cells-database
 	url = https://github.com/FAIRmat-NFDI/nomad-perovskite-solar-cells-database.git
+[submodule "packages/nomad-SiC-defects-database"]
+	path = packages/nomad-SiC-defects-database
+	url = https://github.com/ninahaelterlein/nomad-SiC-defects-database.git
